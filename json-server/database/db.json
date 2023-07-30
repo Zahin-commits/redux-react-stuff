@@ -1,0 +1,20 @@
+{
+  "cart": [
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "brand": "OPPO",
+      "price": 280,
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "brand": "Apple",
+      "price": 899,
+      "quantity": 1
+    }
+  ]
+}
